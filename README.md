@@ -2,7 +2,7 @@
 
 ## An Introduction
 
-The purpose of this project is to parse COVID-19 related information provided on a daily basis by the Greek National Public Helath Organization (NPHO) in the form of a "daily report" (PDF file) and to convert it to machine-redable data.
+The purpose of this project is to parse COVID-19 related information provided on a daily basis by the Greek National Public Helath Organization (NPHO) in the form of a "daily report" (PDF file) and to convert it to machine-readable data.
 
 With the help of plain Bash scripting and Python, getting some usable CSVs was easily doable, although NPHO is constantly altering the structure of the PDFs for no apparent reason and thus things tend to break -way too- often. In addition, the PDFs have no apparent license and thus it's unclear if they could be considered "open data". Regardless, **personal risk assessment is crucial** during the pandemic and is (wisely) advised by WHO (see quote bellow) and therefore, the existence of this data in an easily digestable format for both humans and machines is a necessity.
 
